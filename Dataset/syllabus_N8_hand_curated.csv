@@ -1,0 +1,9 @@
+name,time,marks,prerequisites
+Calculus_Basics,3,5,
+Differentiation,2,12,Calculus_Basics
+Integration,3,20,Differentiation
+Limits,2,8,Calculus_Basics
+Advanced_Calculus,4,35,Differentiation;Limits
+Algebra,2,10,
+Statistics,3,15,
+Probability,2,18,Statistics
