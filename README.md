@@ -54,7 +54,7 @@ Scales the Marks axis by a factor K = (ε · max\_marks) / N, reducing the probl
 ## Repository Structure
 
 ```
-Algorithms_Project/
+IASP_Project/
 ├── Dataset/
 │   ├── pathological_14_cases.csv    # Crafted edge cases (Diamond, Eviction Trap, etc.)
 │   ├── syllabus_N8.csv              # Small curated dataset for testing
