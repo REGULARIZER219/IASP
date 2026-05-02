@@ -89,8 +89,8 @@ Manually test a dataset and get the full ordered study sequence:
 
 ```bash
 cd src
-g++ -O3 -std=c++17 knapsack.cpp -o knapsack
-./knapsack
+g++ -O3 -std=c++17 study_scheduler.cpp -o study_scheduler
+./study_scheduler
 ```
 
 The program prompts for the dataset path, time budget, and epsilon value for FPTAS.
