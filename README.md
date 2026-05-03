@@ -101,8 +101,8 @@ Reconstructs the 14 stress-test cases (Eviction Trap, High Fan-In, Diamond, etc.
 
 ```bash
 cd src
-g++ generate_csv.cpp -o generate
-./generate
+g++ generate_csv.cpp -o generate_csv
+./generate_csv
 ```
 
 ---
