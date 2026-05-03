@@ -67,7 +67,7 @@ IASP_Project/
 │
 ├── src/
 │   ├── study_scheduler.cpp          # Core C++ solver (interactive)
-│   ├── study_scheduler.exe                 # Executable file
+│   ├── study_scheduler.exe          # Executable file
 │   └── generate_csv.py              # Mega_dataset Generator
 │   └── generate_csv.cpp             # Generator for pathological datasets
 │
